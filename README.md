@@ -4,7 +4,8 @@ O Checklist foi projetado para ser uma ferramenta de uso cotidiano, voltada tant
 
 *🎯 Objetivo*
 
-O Checklist é um aplicativo simples e intuitivo, desenvolvido para ajudar pessoas a organizarem suas tarefas diárias, compromissos e listas de afazeres de maneira prática. Seu principal objetivo é aumentar a produtividade, garantindo que nada importante seja esquecido.
+O Checklist é um aplicativo simples e 
+intuitivo, desenvolvido para ajudar pessoas a organizarem suas tarefas diárias, compromissos e listas de afazeres de maneira prática. Seu principal objetivo é aumentar a produtividade, garantindo que nada importante seja esquecido.
 
 *📝 Descrição Completa*
 
@@ -36,7 +37,7 @@ Interface amigável e fácil de usar, sem distrações.
 
 🛠️ Tecnologias Utilizadas:
 
-Linguagem: [especifique: Java, Python, JavaScript, etc.]
+Linguagem: [especifique: Java, JavaScript, etc.]
 
 Frameworks/Bibliotecas: [React, Spring, Node.js, etc.]
 
