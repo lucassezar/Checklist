@@ -39,9 +39,8 @@ Interface amigável e fácil de usar, sem distrações.
 
 Linguagem: [especifique: Java, JavaScript, etc.]
 
-Frameworks/Bibliotecas: [React, Spring, Node.js, etc.]
+Frameworks/Bibliotecas: [A definir]
 
 Banco de Dados: [SQLite, MySQL, Firebase, etc.]
 
-Outras ferramentas: [NetBeans, VSCode, etc.]
-
+Outras ferramentas: [NetBeans e VScode)
